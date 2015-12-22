@@ -1,4 +1,5 @@
 # SkyGrinder
 Minecraft Mod Pack
 
-http://test.com/test2.jar
+#Version 0.0.1.0 Alpha
+22 Dec 2015
