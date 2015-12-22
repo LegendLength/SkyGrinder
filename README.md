@@ -8,5 +8,5 @@ Minecraft Mod Pack
 
 Name | Version | Author
 ---- | ------- | ------
-test1 | test2 | test3
-test4 | test5 | test6
+[3d furnace](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288346-3d-furnace-v1-4) | 1.4 | spAnser
+[AutoPackager](http://minecraft.curseforge.com/projects/autopackager) | test5 | smbarbour
