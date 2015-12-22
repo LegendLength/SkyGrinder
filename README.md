@@ -1,3 +1,4 @@
 # SkyGrinder
 Minecraft Mod Pack
-test5
+
+http://test.com/test2.jar
